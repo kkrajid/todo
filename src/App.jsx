@@ -152,7 +152,7 @@ const App = () => {
             <div className="w-2 h-4 bg-rose-500 animate-bar5"></div>
           </div>
           <div className="absolute bottom-8 text-gray-600 text-sm">
-            Developed by Meenu, Sanjay, Hawaz & Akshay
+            Developed by Anas ,Sarfaraz and Rafath
           </div>
         </div>
       </div>
